@@ -1,13 +1,13 @@
-import blockFonts from './blockfonts.gif'
+import blockFonts from './colored.png'
 
 export default {
-    message: "You can now change the fonts of blocks and dropdowns with an addon!",
-    author: "By Gabs The Mr Incredible Maker (GabsTheCuriousKid)",
+    message: "Nothing new here!",
+    author: "By Gaiawindwave90",
     picture: blockFonts,
-    avatarUrl: "https://avatars.githubusercontent.com/u/140965985?v=4&size=40",
-    secondMessage: "Sorry for the awful quality :(",
+    avatarUrl: "https://avatars.githubusercontent.com/u/4597024?v=4&size=40",
+    secondMessage: "Nothing new here!",
     pictureData: {
-        width: "450px",
-        height: "200px"
+        width: "400px",
+        height: "225px"
     }
 }
