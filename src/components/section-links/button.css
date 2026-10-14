@@ -7,7 +7,7 @@
     border-radius: 4px;
     outline-width: 2px;
     outline-style: solid;
-    outline-color: 0000A619;
+    outline-color: #0000A619;
     color: white;
     background-color: #211AF4;
     cursor: pointer;
@@ -16,10 +16,10 @@
     align-items: center;
 }
 .sectionInfoButton:hover {
-    background-color: #8ef335;
+    background-color: #353BF3;
 }
 .sectionInfoButton:focus {
-    background-color: #8ef335;
+    background-color: #353BF3;
     outline-width: 4px;
 }
 .sectionInfoButtonHighlight {
